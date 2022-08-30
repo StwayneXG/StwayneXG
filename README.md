@@ -30,7 +30,7 @@ I'm Irtaza Sajid Qureshi, a Computer Engineering Student inspiring to work with 
 
 ### Github Stats
 
-![Irtaza's github stats](https://github-readme-stats.vercel.app/api?username=StwayneXG&count_private=true&theme=tokyonight&hide=contribs,prs) &nbsp;
+![Irtaza's github stats](https://github-readme-stats.vercel.app/api?username=StwayneXG&count_private=true&theme=tokyonight&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwayneXG&layout=compact&hide=html,ruby&theme=tokyonight)
 
 #### Profile Visits
