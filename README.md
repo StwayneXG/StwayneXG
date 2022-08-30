@@ -29,9 +29,14 @@ I'm Irtaza Sajid Qureshi, a Computer Engineering Student inspiring to work with 
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
 
 ### Github Stats
-
-![Irtaza's github stats](https://github-readme-stats.vercel.app/api?username=StwayneXG&count_private=true&theme=tokyonight&hide=contribs,prs)
+<!--
+![Irtaza's github stats](https://github-readme-stats.vercel.app/api?username=StwayneXG&count_private=true&theme=tokyonight&hide=contribs,prs) &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwayneXG&layout=compact&hide=html,ruby&theme=tokyonight)
+-->
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=StwayneXG&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=StwayneXG&show_icons=true&locale=en&layout=compact&hide=html,ruby&theme=tokyonight" align = "center"/>
+</p>
 
 #### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=StwaynXG.StwayneXG)
