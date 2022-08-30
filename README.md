@@ -35,6 +35,7 @@ I'm Irtaza Sajid Qureshi, a Computer Engineering Student inspiring to work with 
 -->
 <p align="center">
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=StwayneXG&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs" align = "center"/>
+&nbsp;
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=StwayneXG&show_icons=true&locale=en&layout=compact&hide=html,ruby&theme=tokyonight" align = "center"/>
 </p>
 
