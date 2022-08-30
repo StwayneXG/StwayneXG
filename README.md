@@ -28,8 +28,14 @@ I'm Irtaza Sajid Qureshi, a Computer Engineering Student inspiring to work with 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
 
+### Github Stats
+
+![Irtaza's github stats](https://github-readme-stats.vercel.app/api?username=StwayneXG&count_private=true&theme=tokyonight&hide=contribs,prs) &emsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwayneXG&layout=compact&hide=html,ruby&theme=tokyonight)
+
 #### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=StwaynXG.StwayneXG)
+
 
 <!--
 **StwayneXG/StwayneXG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
