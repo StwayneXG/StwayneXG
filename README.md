@@ -9,7 +9,7 @@ I'm Irtaza Sajid Qureshi, a Computer Engineering Student inspiring to work with 
 [![Mail Badge](https://img.shields.io/badge/-stwaynexg-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:stwaynexg@gmail.com)
 [![Hackerrank](https://img.shields.io/badge/-stwaynexg-2EC866?style=flat&labelColor=2ec866&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/stwaynexg)
 
-- 🔭 I’m currently working as a Research Intern @Mitacs Globalink for York University
+- 🔭 I’m currently working as a Research Intern for Mitacs Globalink @ York University
 - 📫 How to reach me: stwaynexg@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
