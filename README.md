@@ -1,6 +1,6 @@
 ## Hi I'm Irtaza <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Irtaza Sajid Qureshi, a Computer Engineering Student inspiring to work with Artificial Intelligence in Software Engineering. I spend most of time studying and researching about novel technologies related to Artificial Intelligence and Machine Learning. My current research revolves around data privacy by applying Federated Learning techniques.
+I'm Irtaza Sajid Qureshi, a Computer Engineering Student inspired to work with Artificial Intelligence in Software Engineering. I spend most of my time studying and researching novel technologies related to Artificial Intelligence and Machine Learning. My current research revolves around data privacy by applying Federated Learning techniques.
 
 :mailbox: Reach me out!
  
