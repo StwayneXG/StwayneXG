@@ -1,4 +1,4 @@
-## Hi, I'm Irtaza <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Hi, I'm Irtaza <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> <img align="right" alt="Visitors" height="26px" src="https://komarev.com/ghpvc/?username=StwayneXG&color=000000&style=for-the-badge&label=VISTORS" />
 
 ### 📱 Find me on Socials!
 
@@ -14,7 +14,6 @@
 <a href="mailto:stwaynexg@gmail.com">
   <img align="left" alt="Irtaza's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<img align="right" alt="Visitors" height="26px" src="https://komarev.com/ghpvc/?username=StwayneXG&color=000000&style=for-the-badge&label=VISTORS" />
 <br/><br/>
 
 🎓 I am a Master of Applied Sciences (M.A.Sc.) in Electrical & Computer Engineering (ECE) student at York University, Canada 🇨🇦.
