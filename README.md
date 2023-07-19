@@ -1,34 +1,70 @@
-## Hi I'm Irtaza <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Hi, I'm Irtaza <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Irtaza Sajid Qureshi, a Computer Engineering Student inspired to work with Artificial Intelligence in Software Engineering. I spend most of my time studying and researching novel technologies related to Artificial Intelligence and Machine Learning. My current research revolves around data privacy by applying Federated Learning techniques.
+🎓 I am a Master of Applied Sciences (M.A.Sc.) in Electrical & Computer Engineering (ECE) student at York University, Canada 🇨🇦.
 
-:mailbox: Reach me out!
+🎓 I graduated with a Bachelor of Engineering (B.Eng.) with a major in Computer Engineering (CE) from National University of Sciences & Technology (NUST), Pakistan 🇵🇰.
+
+<img width="30%" align="right" alt="GIT" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+I have had experience in many areas over the years including but not limited to:
+- 💻 Software Development
+- 📜 Shell Scripting
+- 🌐 Computer Networking
+- 👁️‍🗨️ Computer Vision
+- 🤖 Machine Learning
+- 📊 Data Science
+
+### 📱 Find me on Socials!
+
+<a href="https://www.linkedin.com/in/irtaza-sajid/">
+  <img align="left" alt="Irtazas's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/irtaza.exists/">
+  <img align="left" alt="Irtaza's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.hackerrank.com/stwaynexg/">
+  <img align="left" alt="Irtaza's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
+</a>
+<a href="mailto:stwaynexg@gmail.com">
+  <img align="left" alt="Irtaza's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br />
+
+## My Tech Stack
+
+#### Programming Languages
+
+<p align="left">
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
+ <img style="margin: auto;" src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt=bash width="60" height="60"/>
+ <img style="margin: auto;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt=git width="60" height="60"/>
+</p>
+
+#### Frameworks
+
+<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="50" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png"></code>
+<code><img height="50" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/numpy.svg"></code>
+<code><img height="50" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pandas.svg"></code>
+<code><img width="70" height="50" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/matplotlib.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png?20110111022945"></code>
+<code><img height="50" src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Core.png"></code>
+
+#### Tools & Environment
+<p align="left">
+<img style="margin: auto;" src="https://www.anaconda.com/wp-content/uploads/2022/03/Anaconda_Logo_RGB_Corporate_stacked_300x225_2x-1.png" alt=c width="80" height="60"/>
+<img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt=c height="60"/>
+<img style="margin: auto;" src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" alt=c height="60"/>
+<img style="margin: auto;" src="https://www.pngmart.com/files/22/Ubuntu-Logo-PNG-Clipart.png" alt=c height="60"/>
+<img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt=c height="60"/>
+<p/>
  
-[![Linkedin Badge](https://img.shields.io/badge/-Irtaza-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irtaza-sajid/) 
-[![Mail Badge](https://img.shields.io/badge/-@irtaza.exists-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/irtaza.exists) 
-[![Mail Badge](https://img.shields.io/badge/-stwaynexg-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:stwaynexg@gmail.com)
-[![Hackerrank](https://img.shields.io/badge/-stwaynexg-2EC866?style=flat&labelColor=2ec866&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/stwaynexg)
-
-- 🔭 I’m currently working as a Research Intern for Mitacs Globalink @ York University
-- 📫 How to reach me: stwaynexg@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
-
-#### Top Frameworks & Libraries
-
-[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](#)
-[![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](#) 
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#) 
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](#)
-[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](#)
-[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
-
-#### Languages
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
-
-### Github Stats
+## ⚡ Github Stats
 <!--
 ![Irtaza's github stats](https://github-readme-stats.vercel.app/api?username=StwayneXG&count_private=true&theme=tokyonight&hide=contribs,prs) &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwayneXG&layout=compact&hide=html,ruby&theme=tokyonight)
