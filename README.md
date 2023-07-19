@@ -14,6 +14,7 @@
 <a href="mailto:stwaynexg@gmail.com">
   <img align="left" alt="Irtaza's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<img align="right" alt="Visitors" height="26px" src="https://komarev.com/ghpvc/?username=StwayneXG&color=000000&style=for-the-badge&label=VISTORS" />
 <br/><br/>
 
 🎓 I am a Master of Applied Sciences (M.A.Sc.) in Electrical & Computer Engineering (ECE) student at York University, Canada 🇨🇦.
@@ -33,7 +34,7 @@ I have had experience in many areas over the years including but not limited to:
 
 ## My Tech Stack
 
-#### Programming Languages
+### Programming Languages
 
 <p align="left">
  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Programming%20Languages/C%2B%2B.svg" alt=cplusplus height="50"/> &nbsp;
@@ -43,22 +44,27 @@ I have had experience in many areas over the years including but not limited to:
  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Programming%20Languages/Bash.svg" alt=bash height="50"/>
 </p>
 
-#### Frameworks
+### Frameworks
 
-<code><img height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/HuggingFace.svg"></code>
-<code><img height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Pytorch.svg"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png"></code>
-<code><img height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Tensorflow.svg"></code>
-<code><img width="70" height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Scikit-learn.svg"></code>
-<code><img height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Numpy.svg"></code>
-<code><img height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Pandas.svg"></code>
-<code><img width="70" height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Matplotlib.svg"></code>
-<code><img height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/OpenCV.svg"></code>
+Machine Learning &nbsp;&nbsp;
+<code><img height="40" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/HuggingFace.svg"></code> &nbsp;
+<code><img height="40" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Pytorch.svg"></code> &nbsp;
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png"></code> &nbsp;
+<code><img height="40" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Tensorflow.svg"></code> &nbsp;
+<code><img width="60" height="40" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Scikit-learn.svg"></code>
+<br/><br/>
+Image Processing &nbsp;&nbsp;
+<code><img height="40" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Numpy.svg"></code> &nbsp;
+<code><img height="40" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/OpenCV.svg"></code> 
+<br/><br/>
+Data Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img height="40" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Pandas.svg"></code> &nbsp;
+<code><img width="60" height="40" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Matplotlib.svg"></code>
 
-#### Tools & Environment
+### Tools & Environment
 <p align="left">
   
-  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Environments%20%26%20Tools/Anaconda.svg" alt=c width="70" height="50"/> &nbsp; &nbsp;
+  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Environments%20%26%20Tools/Anaconda.svg" alt=c width="70" height="50"/> &nbsp;
   <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/Git.svg" alt=c height="50"/> &nbsp; &nbsp;
   <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/VS%20Code.svg" alt=c height="50"/> &nbsp; &nbsp;
   <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/Visual%20Studio.svg" alt=c height="50"/> &nbsp; &nbsp;
@@ -75,11 +81,8 @@ I have had experience in many areas over the years including but not limited to:
 <p align="center">
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=StwayneXG&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs" align = "center"/>
 &nbsp;
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=StwayneXG&show_icons=true&locale=en&layout=compact&hide=html,ruby&theme=tokyonight" align = "center"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=StwayneXG&show_icons=true&locale=en&layout=compact&hide=html,ruby,Qmake&theme=tokyonight" align = "center"/>
 </p>
-
-#### Profile Visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=StwaynXG.StwayneXG)
 
 <!--
 **StwayneXG/StwayneXG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
