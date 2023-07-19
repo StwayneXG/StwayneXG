@@ -51,18 +51,19 @@ I have had experience in many areas over the years including but not limited to:
 
 ### Frameworks
 
-Machine Learning &nbsp;&nbsp;
+<b>Machine Learning</b> &nbsp;&nbsp;
 <code><img height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/HuggingFace.svg"></code> &nbsp;
 <code><img width="40" height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Pytorch.svg"></code> &nbsp;
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png"></code> &nbsp;
 <code><img width="40" height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Tensorflow.svg"></code> &nbsp;
 <code><img width="70" height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Scikit-learn.svg"></code>
 <br/><br/>
-Image Processing &nbsp;&nbsp;
+
+<b>Image Processing</b> &nbsp;&nbsp;
 <code><img width="50" height="60" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Numpy.svg"></code> &nbsp;
 <code><img width="50" height="60" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/OpenCV.svg"></code> 
 <br/><br/>
-Data Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Data Science</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img width="40" height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Pandas.svg"></code> &nbsp;
 <code><img width="60" height="40" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Matplotlib.svg"></code>
 
