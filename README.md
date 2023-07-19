@@ -8,8 +8,14 @@
 <a href="https://www.instagram.com/irtaza.exists/">
   <img align="left" alt="Irtaza's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.kaggle.com/stwaynexg/">
+  <img align="left" alt="Irtaza's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />
+</a>
 <a href="https://www.hackerrank.com/stwaynexg/">
   <img align="left" alt="Irtaza's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
+</a>
+<a href="https://www.upwork.com/freelancers/~01abb15fa162fa8c49">
+  <img align="left" alt="Irtaza's Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg" />
 </a>
 <a href="mailto:stwaynexg@gmail.com">
   <img align="left" alt="Irtaza's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -63,13 +69,14 @@ Data Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ### Tools & Environment
 <p align="left">
   
-  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Environments%20%26%20Tools/Anaconda.svg" alt=c width="70" height="50"/> &nbsp;
-  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/Git.svg" alt=c height="50"/> &nbsp; &nbsp;
-  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/VS%20Code.svg" alt=c height="50"/> &nbsp; &nbsp;
-  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/Visual%20Studio.svg" alt=c height="50"/> &nbsp; &nbsp;
-  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/Ubuntu.svg" alt=c height="50"/> &nbsp; &nbsp;
-  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/Linux.svg" alt=c height="50"/> &nbsp; &nbsp;
-  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/Windows.svg" alt=c height="50"/> &nbsp;
+  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Environments%20%26%20Tools/Anaconda.svg" alt=anaconda width="70" height="50"/> &nbsp;
+  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/1b7915a0b8c4eff45ad9bbf939327507763390d7/SVG%20Icons/Environments%20%26%20Tools/Jupyter.svg" alt=jupyter height="50"/> &nbsp; &nbsp;
+  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/Git.svg" alt=git height="50"/> &nbsp; &nbsp;
+  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/VS%20Code.svg" alt=vscode height="50"/> &nbsp; &nbsp;
+  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/Visual%20Studio.svg" alt=visualstudio height="50"/> &nbsp; &nbsp;
+  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/Ubuntu.svg" alt=ubuntu height="50"/> &nbsp; &nbsp;
+  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/Linux.svg" alt=linux height="50"/> &nbsp; &nbsp;
+  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/Windows.svg" alt=windows height="50"/> &nbsp;
 <p/>
  
 ## ⚡ Github Stats
