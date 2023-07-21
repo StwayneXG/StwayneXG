@@ -65,7 +65,8 @@ I have had experience in many areas over the years including but not limited to:
 <br/><br/>
 <b>Data Science</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img width="40" height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Pandas.svg"></code> &nbsp;
-<code><img width="60" height="40" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Matplotlib.svg"></code>
+<code><img width="60" height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Matplotlib.svg"></code>
+<code><img height="50" src="https://github.com/StwayneXG/StwayneXG/blob/e1c078c9c317066f4c9a93965545e7487cc3e409/SVG%20Icons/Frameworks/Seaborn.svg"></code>
 
 ### Tools & Environment
 <p align="left">
