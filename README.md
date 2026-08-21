@@ -45,10 +45,10 @@ Rewrite the code so it looks different but behaves exactly the same, then ask th
 
 The code goes public the day the paper lands on arXiv. Soon.
 
-<img src="assets/rule.svg" width="100%" />
+<img src="https://github.com/StwayneXG/StwayneXG/blob/main/SVG%20Icons/rule-red.svg" width="100%" />
 
 <!-- PLACEHOLDER: replace with a 235x185 image -->
-<img align="left" height="185" src="https://github.com/StwayneXG/StwayneXG/blob/main/SVG%20Icons/bloom-tcg.png" />
+<img align="left" height="285" width="235" src="https://github.com/StwayneXG/StwayneXG/blob/main/SVG%20Icons/bloom-tcg.png" />
 
 ### Cognitive Evaluation of LLMs for Test Case Generation [2025]
 
@@ -58,7 +58,7 @@ A cognitive evaluation framework (adapted from Bloom's Taxonomy) for LLMs genera
 
 The whole story is at [arxiv.org/abs/2510.05365](https://arxiv.org/abs/2510.05365).
 
-<img src="assets/rule.svg" width="100%" />
+<img src="https://github.com/StwayneXG/StwayneXG/blob/main/SVG%20Icons/rule-blue.svg" width="100%" />
 
 <img align="left" height="185" width="235" src="assets/images/sketch-bleu.png" />
 
@@ -70,10 +70,10 @@ A paper proposed the idea of a repository-level CodeBLEU but never gave a proper
 
 It's all in [sketch-bleu](https://github.com/StwayneXG/sketch-bleu).
 
-<img src="assets/rule.svg" width="100%" />
+<img src="https://github.com/StwayneXG/StwayneXG/blob/main/SVG%20Icons/rule-black.svg" width="100%" />
 
 <!-- PLACEHOLDER: replace with a 235x185 image -->
-<img align="left" height="185" src="https://github.com/StwayneXG/automated-cxr-analysis/blob/main/UI.png" />
+<img align="left" height="285" width="235" src="https://github.com/StwayneXG/automated-cxr-analysis/blob/main/UI.png" />
 
 ### Chest X-Ray Diagnosis & Report Generation [2023]
 
@@ -83,7 +83,7 @@ Before any of the LLM stuff, this is where it started. Vision-language transform
 
 <!-- Add a link when the code is public. -->
 
-<!-- <img src="assets/rule.svg" width="100%" />
+<!-- <img src="https://github.com/StwayneXG/StwayneXG/blob/main/SVG%20Icons/rule-red.svg" width="100%" />
 
 <img align="left" height="185" width="235" src="assets/images/placeholder-project.svg" />
 
