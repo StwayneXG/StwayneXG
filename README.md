@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/headings/profile-header.dark.svg">
-    <img src="assets/headings/profile-header.light.svg" alt="Irtaza Sajid Qureshi, AI Engineer | LLM Agents for Software Engineering" />
+    <img src="https://github.com/StwayneXG/StwayneXG/blob/main/SVG%20Icons/spidey-banner.gif" alt="Irtaza Sajid Qureshi, AI Engineer | LLM Agents for Software Engineering" />
   </picture>
 </p>
 
