@@ -1,6 +1,5 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/headings/profile-header.dark.svg">
     <img src="https://github.com/StwayneXG/StwayneXG/blob/main/SVG%20Icons/spidey-banner.gif" alt="Irtaza Sajid Qureshi, AI Engineer | LLM Agents for Software Engineering" />
   </picture>
 </p>
@@ -14,7 +13,9 @@
 </h2>
 
 <!-- PLACEHOLDER: replace with your GIF. Keep height="225" so the text wraps beside it like the original. -->
-<img src="https://github.com/StwayneXG/StwayneXG/blob/main/SVG%20Icons/spidey-sense.gif" align="right" height="380" />
+<picture>
+  <img src="https://github.com/StwayneXG/StwayneXG/blob/main/SVG%20Icons/spidey-sense.gif" align="right" height="380" />
+</picture>
 
 Okay, let's do this one last time, yeah? For real this time. This is it. My name is Irtaza. I've been trying to understand LLMs and agents for 3 years. My thesis puts these systems to the test empirically, asking one thing: when an LLM solves a problem, is it reasoning its way there, or just remembering an answer it saw during training?
 
